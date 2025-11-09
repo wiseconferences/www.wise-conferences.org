@@ -1,0 +1,105 @@
+*** Call for Papers ***
+
+17th International Conference on Web Information Systems Engineering (WISE'16) 
+http://www.wise-conferences.org/2016/
+
+7th-10th, November, 2016
+Shanghai, China
+
+WISE has established itself as a solid community aiming at high quality research and offering the ground for advancing and progressing efforts in Web information systems addressed topics. Previous WISE conferences were held in Hong Kong, China (2000), Kyoto, Japan (2001), Singapore (2002), Roma, Italy (2003), Brisbane, Australia (2004), New York, USA (2005), Wuhan, China (2006), Nancy, France (2007), Auckland, New Zealand (2008), Poznan, Poland (2009), Hong Kong, China (2010), Sydney, Australia (2011), Paphos, Cyprus (2012), Nanjing, China (2013), Thessaloniki, Greece (2014) and Miami, USA (2015). The aim of this 17th edition of the conference series on Web Information Systems Engineering is to provide an international forum for researchers, professionals, and industrial practitioners to share knowledge in the rapidly growing area of technologies, methodologies and applications. 
+
+-Big Data Techniques and Applications
+-Cloud Computing
+-Deep/Hidden Web
+-Future Internet Architectures and Protocols
+-Human Factors and Social Issues
+-Integration of Web and Internet-connected Objects
+-Linked Open Data
+-Mobile Web
+-Semantic Web
+-Social Networks Computing
+-Social Web and Applications
+-Social Web models, analysis and mining
+-Visualization for the Web and Rich Web UI
+-Web Agents and Web Intelligence
+-Web Tools and Languages
+-Web-based Applications (e.g., e-Commerce, e-Government, e-earning, etc.)
+-Web-based Business Processes and Web Services
+-Web-based Enterprise Systems
+-Web Big Data Techniques and Mining
+-Web Data Integration and Mashups
+-Web Data Models
+-Web engineering, metrics and performance
+-Web Information Retrieval
+-Web Mining and Web Warehousing
+-Web Privacy Management
+-Web Search and Information Extraction
+-Web Security and Trust Management 
+
+	IMPORTANT DATES
+
+Abstract due (extended to): April 24, 2016 
+Full paper due (extended to):  May 1, 2016 
+Acceptance notification: July 9, 2016 
+Camera-ready copy: August 6, 2016 
+Workshop proposals: March 1, 2016 
+Panel/Tutorial proposals: July 25, 2016
+
+	PAPER SUBMISSION 
+https://cmt.research.microsoft.com/WISE2016/ 
+Papers should be submitted in PDF format. The results described must be unpublished and must not be under review elsewhere. Submissions must conform to Springer's LNCS format and should not exceed 15 pages, including all text, figures, references and appendices. Submissions not conforming to the LNCS format, exceeding 15 pages, or being obviously out of the scope of the conference, will be rejected without review.  Three to five keywords characterizing the paper should be indicated at the end of the abstract. Information about the Springer LNCS format can be found at  http://www.springer.de/comp/lncs/authors.html.  WORKSHOPS, PANELS, TUTORIALS, INDUSTRY PRESENTATIONS In addition to technical contributions, WISE¡¯16 invites proposals for workshops, panels, tutorials and industry presentations. For workshops, WISE'16 will provide administrative support for workshop room booking, registration, and publication. All papers accepted by WISE¡¯16 workshops will be published in a combined volume of Lecturer Notes in Computer Science series published by Springer (pending for approval).  Proposals or industry papers should be sent as email attachments to wise.conf@gmail.com. 
+
+	PUBLICATION 
+Accepted papers will be presented at WISE¡¯16 and published in the conference proceedings, which is published in the Springer Lecture Notes in Computer Science (LNCS). Selected best papers from the conference will be invited to submit an extended version for publication in the World Wide Web Journal, Springer. 
+
+	Conference Organization 
+
+General Co-Chairs: 
+Hong Mei, Shanghai Jiao Tong University, China 
+Marek Rusinkiewicz, New Jersey Institute of Technology, USA 
+Yanchun Zhang, Victoria university, Australia & Fudan University, China 
+
+Program Co-Chairs:  
+Wojciech Cellary, Poznan University of Economics, Poland 
+Jianmin Wang, Tsinghua University, China 
+Mohamed F. Mokbel, university of Minnesota, USA 
+
+Special Track/Area Chairs: 
+ Big Data Area Chair: 
+ Xueqi Cheng,Chinese Academy of Sciences, China 
+ Big Search Area Chair: 
+ Yan Jia, National University of Defense Technology, China 
+ Transparent Computing and Service Area Chair: 
+ Jianhua Ma, Hosei University, Japan 
+
+Workshop Co-Chairs: 
+Zhiguo Gong, University of Macau, Macau, China 
+Yong Tang, South China Normal University, China 
+
+Tutorial/Panel Chair: 
+Xuemin Lin,The University of New South Wales, Australia 
+
+Publication Chair: 
+Hua Wang, Victoria University, Australia 
+
+Publicity Co-Chairs: 
+Jing Yang, Chinese Academy of Sciences, China 
+Quan Bai, Auckland University of Technology, New Zealand
+
+Website Chair: 
+Rui Zhou, Victoria University, Australia 
+
+Local arrangement Chair: 
+Shanfeng Zhu,  Fudan University, China 
+
+Sponsor Chair: 
+Tao Li, Florida International University, USA 
+
+Wise Society Representative: 
+Xiaofang Zhou, The University of Queensland, Australia
+
+
+
+
+
+

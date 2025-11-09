@@ -1,0 +1,390 @@
+*** Call for Participation ***
+
+17th International Conference on Web Information Systems Engineering (WISE'16) 
+http://www.wise-conferences.org/2016/
+
+8th-10th, November, 2016
+Shanghai, China
+
+WISE has established itself as a solid community aiming at high quality research and offering the ground for advancing and progressing efforts in Web information systems addressed topics. Previous WISE conferences were held in Hong Kong, China (2000), Kyoto, Japan (2001), Singapore (2002), Roma, Italy (2003), Brisbane, Australia (2004), New York, USA (2005), Wuhan, China (2006), Nancy, France (2007), Auckland, New Zealand (2008), Poznan, Poland (2009), Hong Kong, China (2010), Sydney, Australia (2011), Paphos, Cyprus (2012), Nanjing, China (2013), Thessaloniki, Greece (2014) and Miami, USA (2015). The aim of this 17th edition of the conference series on Web Information Systems Engineering is to provide an international forum for researchers, professionals, and industrial practitioners to share knowledge in the rapidly growing area of technologies, methodologies and applications. 
+
+WISE16 program features 
+5 openning & keynote speeches by prominent scientists and academcians from China, USA and Australia
+39 full papers
+31 short papers
+a special session on Data Quality and Trust in Big Data (QUAT-16) 
+an invited session (invited papers)
+Panel discussion with senior members and academicians
+a medical big data forum
+
+----------------------------------------------------------------------------------------------------
+
+	Highlights£º
+	Opening & Keynote Speakers:
+
+
+Professor Maria Orlowska, Fellow of Australian Academy of Sciences, Vice-President of the Polish-Japanese Institute of Information Technology, the former Secretary of State in the Ministry of Science and Higher Education, Poland;
+
+Professor Binxing Fang, academician of CAE (Chinese Academy of Engineering) and the former President of BUPT (Beijing University of Posts and Telecommunications), China; 
+Talk: Big Search on Cyber Space
+	
+Dr. Phil Neches, Advisor, Member of National Academy of Engineering, the Chairman of Foundation Ventures LLC, the founder of Teradata Corporation, USA; 
+Talk: The New York Tech Innovation Ecosystem
+	
+Professor Ramamohanarao (Rao) Kotagiri, Fellow of the Institute of Engineers Australia, Fellow of Australian Academy Technological Sciences and Engineering and Fellow of Australian Academy of Science. The University of Melbourne, Australia.
+Talk: Defending Machine Learning against Adversarial Samples
+
+
+----------------------------------------------------------------------------------------------------
+
+	Research Papers and Conference Program
+
+	November 8th 2016, Tuesday
+
+	Session 01 : Topic Modeling 
+
+Domain Dictionary-based Topic Modeling for Social Text
+Bo Jiang, Jiguang Liang, Ying Sha, Rui Li, and Lihong Wang
+
+Towards an Impact-driven Quality Control Model for Imbalanced Crowdsourcing Tasks
+Kinda El Maarry and Wolf-Tilo Balke
+
+Modeling and Analyzing Engagement in Social Network Challenges
+Marco Brambilla, Stefano Ceri, Chiara Leonardi, Andrea Mauri, and Riccardo Volonterio
+
+	Session 02 : Ranking in Social Networks
+
+Faderank: an Incremental Algorithm for Ranking Twitter Users
+Massimo Bartoletti, Stefano Lande, and Alessandro Massa
+
+Personalized Re-Ranking of Tweets
+Yukun Zhao, Shangsong Liang, and Jun Ma
+
+Ranking Microblog Users via URL Biased Posts
+Yongjun Ye,Peng Li,Rui Li,Meilin Zhou,Yifang Wan,Bin Wang (short paper)
+
+Identifying Implicit Enterprise Users from the Imbalanced Social Data 
+Zhenni You, Tieyun Qian, Baochao Zhang, Shi Ying (short paper)
+
+	Session 03 : Social Network Data Analysis
+
+Attribute-based Influence Maximization in Social Networks
+Jiuxin Cao, Tao Zhou, Dan Dong, Shuai Xu, Ziqing Zhu, Zhuo Ma, and Bo Liu
+
+Twitter Normalization via 1-to-N Recovering
+Yafeng Ren, Jiayuan Deng, and Donghong Ji
+
+A Data Cleaning Method for CiteSeer Dataset
+Yan Wang, Hao Zhang, Yaxin Li, Deyun Wang, Yanlin Ma, Tong Zhou, and Jianguo Lu
+
+Towards Understanding URL Resources in Recent Sina Weibo
+Yifang Wan, Peng Li, Rui Li, Meilin Zhou, Yongjun Ye, and Bin Wang (short paper)
+
+	Session 04 : Data Diversity 
+
+Select, Link and Rank: Diversified Query Expansion and Entity Ranking using Wikipedia 
+Adit Krishnan, Deepak Padmanabhan, Sayan Ranu, and Sameep Mehta
+
+Multi-Dimension Diversification in Legal Information Retrieval 
+Marios Koniaris, Ioannis Anagnostopoulos, and Yannis Vassiliou
+
+Generating Multiple Diverse Summaries 
+Natwar Modani, Balaji Vasan Srinivasan, and Harsh Jhamtani (short paper)
+
+Diversifying the Results of Keyword Queries on Linked Data
+Ananya Dass, Cem Aksoy, Aggeliki Dimitriou, Dimitri Theodoratos, and Xiaoying Wu (short paper)
+
+	Session 05 : Data Similarity 
+
+Semantic Similarity of Workflow Traces with Various Granularities
+Qing Liu, Quan Bai, and Yi Yang
+
+Intermediate Semantics based Distance Metric Learning for Video Annotation and Similarity Measurements
+Wen Qu, Xiangmin Zhou, Daling Wang, Shi Feng, Yifei Zhang, and Ge Yu
+
+A Community Detection Algorithm Considering Edge Betweenness and Vertex Similarity 
+Hongwei Lu, Chang Liu, and Zaobin Gan (short paper)
+
+Measuring and Ensuring Similarity of User Interfaces: the Impact of Web Layout
+Sebastian Heil, Maxim Bakaev, and Martin Gaedke (short paper)
+
+	Sessio 06 : Big Data Processing
+
+Parallel Materialization of Datalog Programs with Spark for Scalable Reasoning 
+Haijiang Wu, Jie Liu, Tao Wang, Dan Ye, Jun Wei, and Hua Zhong
+
+A Data Type-Driven Property Alignment Framework for Product Duplicate Detection on the Web
+Gijs van Rooij, Ravi Sewnarain, Martin Skogholt, Tim van der Zaan, Flavius Frasincar, and Kim Schouten
+
+A Semantic Data Parallel Query Method Based on Hadoop
+Liu Yang, Liu Yang, Jiangbo Niu, Zhigang Hu, Jun Long, and Meiguang Zheng (short paper)
+
+A Strategy to Improve Accuracy of Multi-Dimensional Feature Forecasting in Big Data Stream computing Environments
+Dawei Sun, Hao Tang, Shang Gao, and Fengyun Li (short paper)
+
+	Session 07 :Sentiment Analysis
+
+Dynamic Topic-Based Sentiment Analysis of Large-Scale Online News
+Peng Liu, Jon Atle Gulla, and Lemei Zhang
+
+Improving Object and Event Monitoring on Twitter Through Lexical Analysis and User Profiling 
+Yihong Zhang, Claudia Szabo, and Quan Z. Sheng
+
+Aspect-Based Sentiment Analysis Using Lexico-Semantic Patterns 
+Kim Schouten, Frederique Baas, Olivier Bus, Alexander Osinga, Nikki van deVen, Steffie van Loenhout, Lisanne Vrolijk, and Flavius Frasincar (short paper)
+
+Multilevel Browsing of Folksonomy-based Digital Collections 
+Joaqu¡ä?n Gayoso-Cabada, Daniel Rodr¡ä?guez-Cerezo, and Jos¡äe-Luis Sierra (short paper)
+
+	Session 08 : Microblog Data Analysis 
+
+Understanding Factors that Affect Web Traffic via Twitter
+Chunjing Xiao, Zhiguang Qin, Xucheng Luo, and Aleksandar Kuzmanovic
+
+Analysis of Teens¡¯ Chronic Stress on Micro-blog
+Yuanyuan Xue, Qi Li, Liang Zhao, Jia Jia, Ling Feng, Feng Yu, and David A. Clifton
+
+Large-scale Stylistic Analysis of Formality in Academia and Social Media 
+Thin Nguyen, Svetha Venkatesh and Dinh Phung (short paper)
+
+Discriminative Cues for Different Stages of Smoking Cessation in Online Community
+Thin Nguyen, Ron Borland, John Yearwood, Hua-Hie Yong, Svetha Venkatesh and Dinh Phung (short paper)
+
+	Session 09 : Prediction
+
+Learning-based SPARQL Query Performance Prediction
+Wei Emma Zhang, Quan Z. Sheng, Kerry Taylor, Yongrui Qin, and Lina Yao
+
+Can Online Emotions Predict the Stock Market in China? 
+Zhenkun Zhou, Jichang Zhao, and Ke Xu
+
+Predicting Replacement of Smartphones with Mobile App Usage
+Dun Yang, Zhiang Wu, Xiaopeng Wang, Jie Cao, and Guandong Xu (short paper)
+
+Real Time Prediction on Revisitation Behaviors of Short-Term Type Commodities
+Xiangzhen Xu, Jinghua Fu, Yuliang Shi, Shijun Liu, and Lizhen Cui (short paper)
+
+----------------------------------------------------------------------------------------------------
+
+	November 9th 2016, Wednesday 
+
+	Session 10 : Cloud Computing
+
+Automatic Creation and Analysis of a Linked Data Cloud Diagram
+Alexander Arturo Mera Caraballo, Bernardo Pereira Nunes, Giseli Rabello Lopes, Luiz Andr¡äe Portes Paes Leme, and Marco Antonio Casanova
+
+Fast Multi-keywords Search Over Encrypted Cloud Data 
+Cheng Hong, Yifu Li, Min Zhang, and Dengguo Feng
+
+A Scalable Parallel Semantic Reasoning Algorithm-Based on RDFS Rules on Hadoop 
+Liu Yang, Xiao Wen, Zhigang Hu, Chang Liu, Jun Long, and Meiguang Zheng (short paper)
+
+Cloud Resource Allocation from the User Perspective: A Bare-bones Reinforcement Learning Approach
+Alexandros Kontarinis, Verena Kantere, and Nectarios Koziris (short paper)
+
+	Session 11 : Data Mining 
+
+Labeled Phrase Latent Dirichlet Allocation 
+Yi-Kun Tang, Xian-Ling Mao, and He-Yan Huang
+
+WTEN: An Advanced Coupled Tensor Factorization Strategy for Learning from Imbalanced Data 
+Quan Do, Thanh Pham, Wei Liu, and Kotagiri Ramamohanarao
+
+Mining Actionable Knowledge using Reordering based Diversified Actionable Decision Trees 
+Sudha Subramani, Hua Wang, Sathiyabhama Balasubramaniam, Rui Zhou, Jiangang Ma, Yanchun Zhang, Frank Whittaker, Yueai Zhao, and Sarathkumar Rangarajan (short paper)
+
+Improving Distant Supervision of Relation Extraction With Unsupervised Methods
+Min Peng, Jimin Huang, Zhaoyu Sun, Shizhong Wang, Hua Wang, Guangping Zhuo, and Gang Tian (short paper)
+
+	Session 12 : Event Detection 
+
+Event Phase Extraction and Summarization
+Chengyu Wang, Rong Zhang, Xiaofeng He, Guomin Zhou, and Aoying Zhou
+
+ESAP: A Novel Approach for Cross-Platform Event Dissemination Trend Analysis Between Social Network and Search Engine 
+Yan Tang, Pengju Ma, Boyuan Kong, Wenqian Ji, Xiaofeng Gao, and Xuezheng Peng
+
+Learning Event Profile for Improving First Story Detection in Twitter Stream
+Yongqin Qiu, Rui Li, Lihong Wang, and Bin Wang (short paper)
+
+A Novel Approach of Discovering Local Community Using Node Vector Model 
+Jinglian Liu, Daling Wang, Shi Feng, Yifei Zhang, and Weiji Zhao (short paper)
+
+	Session 13 : Graph Theory
+
+Minimum Spanning Tree on Uncertain Graphs
+Anzhen Zhang, Zhaonian Zou, Jianzhong Li, Hong Gao
+
+A Block-Based Edge Partitioning for Random Walks Algorithms over Large Social Graphs 
+Yifan Li, Camelia Constantin, and Cedric du Mouza
+
+Differentially Private Network Data Release via Stochastic Kronecker Graph 
+Dai Li, Wei Zhang, and Yunfang Chen (short paper)
+
+An Executable Specification for SPARQL
+Mihaela Bornea, Julian Dolby, Achille Fokoue, Anastasios Kementsietsidis, Kavitha Srinivas, and Mandana Vaziri (short paper)
+
+	Sessoion 14 : Query Processing 
+
+POL: a Pattern Oriented Load-Shedding for Semantic Data Stream Processing
+Fethi Belghaouti, Amel Bouzeghoub, and Zakia Kazi-Aoul, and Raja Chiky
+
+Unsupervised Blocking of Imbalanced Datasets for Record Matching
+Chenxiao Dou, Daniel Sun, and Raymond K. Wong
+
+Partially Decompressing Binary Interpolative Coding for Fast Query Processing
+Xi Fu, Peng Li, Rui Li, and Bin Wang (short paper)
+
+Using Changesets for Incremental Maintenance of Linkset Views
+Vania M. P. Vidal, Marco A. Casanova, Elisa S. Menendez, Narciso Arruda, Valeria M. Pequeno, and Luiz A. Paes Leme (short paper)
+
+----------------------------------------------------------------------------------------------------
+
+	November 10th 2016, Thursday
+
+	Session 15 : Recommender Systems 
+
+Nonparametric Bayesian Probabilistic Latent Factor Model for Group Recommender Systems 
+Nipa Chowdhury and Xiongcai Cai
+
+Joint User Knowledge and Matrix Factorization for Recommender Systems 
+Yonghong Yu, Yang Gao, Hao Wang, and Ruili Wang
+
+GEMRec: A Graph-based Emotion-aware Music Recommendation Approach
+Dongjing Wang, Shuiguang Deng, and Guandong Xu
+
+	Session 16 : Context-Aware Recommendation 
+
+Semantic Context-aware Recommendation via Topic Models Leveraging Linked Open Data
+Mehdi Allahyari and Krys Kochut
+
+Optimizing Factorization Machines for Top-N Context-aware Recommendations 
+Fajie Yuan, Guibing Guo, Joemon M. Jose, Long Chen, Haitao Yu, and Weinan Zhang
+
+Taxonomy Tree based Similarity Measurement of Textual Attributes of Items for Recommender Systems
+Longquan Tao, Fei Liu, and Jinli Cao (short paper)
+
+A Personalized Recommendation Algorithm for User-Preference Similarity through the Semantic Analysis 
+Haolin Zhang and Feiyue Ye (short paper)
+
+	Session 17 : Spatial and Temporal Data 
+
+Graph-based Metric Embedding for Next POI Recommendation 
+Min Xie, Hongzhi Yin, Fanjiang Xu, Hao Wang, and Xiaofang Zhou
+
+Temporal Pattern based QoS Prediction
+Liang Chen, Haochao Ying, Qibo Qiu, Jian Wu, Hai Dong, and Athman Bouguettaya
+
+Searching for Data Sources for the Semantic Enrichment of Trajectories 
+Luiz Andr¡äe P. Paes Leme, Chiara Renso, Bernardo P. Nunes, Giseli Rabello Lopes, Marco A. Casanova, and V?ania P. Vidal (short paper)
+
+On Impact of Weather on Human Mobility in Cities 
+Jun Pang, Polina Zablotskaia, and Yang Zhang (short paper)
+
+	Session 18 : Non-Traditional Environments 
+
+Towards A Scalable Framework for Artifact-Centric Business Process Management Systems
+Jiankun Lei, Rufan Bai, Lipeng Guo, and Liang Zhang
+
+Bridging Semantic Gap between App Names: Collective Matrix Factorization for Similar Mobile App Recommendation 
+Ning Bu, Shuzi Niu, Lei Yu, Wenjing Ma, and Guoping Long
+
+Summarizing Multimedia Content 
+Natwar Modani, Pranav Maneriker, Gaurush Hiranandani, Atanu R Sinha, Utpal, Vaishnavi Subramanian, and Shivani Gupta (short paper)
+
+Bridging Enterprise and Software Engineering through an User-Centered Design perspective
+Pedro Valente, Thiago Silva, Marco Winckler, and Nuno Nunes (short paper)
+
+
+	Special session papers on Data Quality and Trust in Big Data (QUAT-16)
+
+	QUAT.session.1 (chair: William Song)
+
+Keynote speech (tentiative Prof. Chen, Zhejiang University.)
+
+Region Profile based Geo-Spatial Analytic Search
+Xiaofeng Du and Zhan Cui
+	
+	QUAT.session.2 (chair: Hasan Fleyeh)
+
+Segmentation and Enhancement of Low Quality Fingerprint Images
+Hasan Fleyeh
+
+Feature Selection and Bleach Time Modelling of Paper Pulp using Tree Based Learners
+Karl Hansson, Hasan Fleyeh, and Siril Yella
+
+Trust Model of Wireless Sensor Networks Based on Shannon Entropy
+Jun Hu and Chun Guan
+
+Community-based Message Transmission with Energy Efficient in Opportunistic Networks
+Sheng Zhang, Xin Wang, Minghui Yao, and William Wei Song
+
+	QUAT.session.3 (chair: Xiaofeng Du)
+
+Assessing the quality and reliability of visual estimates in determining plant cover on railway
+Siril Yella and Roger G. Nyberg
+
+A Multi-Semantic Classification Model of Reviews Based on Directed Weighted Graph
+Shaozhong Zhang, William Wei Song, Minjie Ding, and Ping Hu
+
+Data Warehouse Quality Assessment using Contexts
+Flavia Serra and Adriana Marotta
+
+
+----------------------------------------------------------------------------------------------------
+
+	Organizing Committees
+
+
+Honorary Conference Chair
+Maria Orlowska, Polish-Japanese Institute of Information Technology, Poland
+
+General Co-Chairs: 
+Hong Mei, Shanghai Jiao Tong University, China 
+Marek Rusinkiewicz, New Jersey Institute of Technology, USA 
+Yanchun Zhang, Victoria university, Australia & Fudan University, China 
+
+Program Co-Chairs:  
+Wojciech Cellary, Poznan University of Economics, Poland 
+Jianmin Wang, Tsinghua University, China 
+Mohamed F. Mokbel, university of Minnesota, USA 
+
+Special Track/Area Chairs: 
+ Big Data Area Chair: 
+ Xueqi Cheng,Chinese Academy of Sciences, China 
+ Medical Big Data Analysis Area Chair: 
+ Yan Jia, National University of Defense Technology, China 
+ Transparent Computing and Service Area Chair: 
+ Jianhua Ma, Hosei University, Japan 
+
+Workshop Co-Chairs: 
+Zhiguo Gong, University of Macau, Macau, China 
+Yong Tang, South China Normal University, China 
+
+Tutorial/Panel Chair: 
+Xuemin Lin,The University of New South Wales, Australia 
+
+Publication Chair: 
+Hua Wang, Victoria University, Australia 
+
+Publicity Co-Chairs: 
+Jing Yang, Chinese Academy of Sciences, China 
+Quan Bai, Auckland University of Technology, New Zealand
+
+Website Chair: 
+Rui Zhou, Victoria University, Australia 
+
+Local arrangement Chair: 
+Shanfeng Zhu,  Fudan University, China 
+
+Conference Finance Co-chairs
+Lanying Zhang, Fudan University, China
+Irena Dzuteska, Victoria University, Australia
+
+Sponsor Chair: 
+Tao Li, Florida International University, USA 
+
+Wise Society Representative: 
+Xiaofang Zhou, The University of Queensland, Australia
+
+
